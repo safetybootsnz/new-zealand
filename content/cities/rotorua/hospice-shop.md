@@ -1,0 +1,4 @@
+---
+title: "Hospice Shop"
+url: /rotorua/hospice-shop/
+---
