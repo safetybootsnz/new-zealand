@@ -1,12 +1,12 @@
-id: 3838206424
-type: node
+id: 153445031
+type: way
 shop: supermarket
-latitude: -43.552695500000006
-longitude: 172.55754280000002
-postcode: "8042"
+latitude: -43.4882028
+longitude: 172.58699320000002
+postcode: ""
 city: Christchurch
-street: "Skyhawk Road"
-housenumber: 51
+street: "Harewood Road"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Su 07:30-22:00"
-website: ""
+opening_hours: "7am to 9pm, 7 days"
+website: "https://www.newworld.co.nz/south-island/canterbury/bishopdale/"

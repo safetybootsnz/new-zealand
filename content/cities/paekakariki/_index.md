@@ -1,6 +1,6 @@
 ---
 title: Paekakariki
 url: /paekakariki/
-latitude: -40.9831081
-longitude: 174.95412950000002
+latitude: -40.988307400000004
+longitude: 174.9514432
 ---

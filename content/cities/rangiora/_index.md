@@ -1,6 +1,6 @@
 ---
 title: Rangiora
 url: /rangiora/
-latitude: -43.3033233
-longitude: 172.59589350000002
+latitude: -43.303171000000006
+longitude: 172.5961483
 ---
