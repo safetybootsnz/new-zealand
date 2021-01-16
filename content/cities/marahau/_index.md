@@ -1,6 +1,6 @@
 ---
 title: Marahau
 url: /marahau/
-latitude: 
-longitude: 
+latitude: -41.006133600000005
+longitude: 173.0086156
 ---

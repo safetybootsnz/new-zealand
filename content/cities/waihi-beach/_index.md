@@ -1,6 +1,6 @@
 ---
 title: Waihi Beach
 url: /waihi-beach/
-latitude: -37.407448900000006
-longitude: 175.941812
+latitude: -37.411788800000004
+longitude: 175.943247
 ---
