@@ -1,5 +1,5 @@
 ---
 title: "Ramlax Dairy"
 url: /auckland/ramlax-dairy/
-shop: dairy
+shop: convenience
 ---
