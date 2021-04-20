@@ -1,5 +1,5 @@
 ---
-title: "Coupland's"
+title: "Couplands"
 url: /christchurch/couplands/
 shop: bakery
 ---
