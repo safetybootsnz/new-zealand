@@ -1,6 +1,6 @@
 ---
 title: Otaki
 url: /otaki/
-latitude: -40.754905
-longitude: 175.15117740000002
+latitude: -40.7585374
+longitude: 175.1470152
 ---

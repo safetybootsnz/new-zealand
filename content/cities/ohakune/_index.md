@@ -1,6 +1,6 @@
 ---
 title: Ohakune
 url: /ohakune/
-latitude: -39.41606
-longitude: 175.39893320000002
+latitude: -39.416945500000004
+longitude: 175.3996126
 ---
