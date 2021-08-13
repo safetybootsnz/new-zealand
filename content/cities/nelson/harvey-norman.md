@@ -1,5 +1,5 @@
 ---
 title: "Harvey Norman"
 url: /nelson/harvey-norman/
-shop: electronics
+shop: department store
 ---

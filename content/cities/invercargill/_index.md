@@ -1,6 +1,6 @@
 ---
 title: Invercargill
 url: /invercargill/
-latitude: -46.4121229
-longitude: 168.34832690000002
+latitude: -46.4118465
+longitude: 168.3470632
 ---
