@@ -1,5 +1,5 @@
 ---
 title: "Kathmandu"
 url: /blenheim/kathmandu/
-shop: clothes
+shop: outdoor
 ---
