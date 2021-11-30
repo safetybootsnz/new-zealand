@@ -1,6 +1,6 @@
 ---
 title: Gisborne
 url: /gisborne/
-latitude: -38.2511249
-longitude: 178.1489099
+latitude: -38.661326
+longitude: 178.0206487
 ---

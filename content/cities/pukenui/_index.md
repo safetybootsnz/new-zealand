@@ -1,6 +1,6 @@
 ---
 title: Pukenui
 url: /pukenui/
-latitude: -34.8153006
-longitude: 173.1198335
+latitude: -34.8150929
+longitude: 173.11808240000002
 ---
