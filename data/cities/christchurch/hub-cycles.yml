@@ -7,5 +7,5 @@ city: Christchurch
 street: "Whiteleigh Avenue"
 housenumber: 
 phone: "+64 3 982 4982"
-opening_hours: "Mo-Fr 08:00-18:00 Sa 9:00-17:00 Su 10:00-16:00"
+opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-17:00; Su 10:00-16:00"
 website: "https://hubcycles.co.nz"

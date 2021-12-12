@@ -7,5 +7,5 @@ city: Christchurch
 street: "Clarence Street"
 housenumber: 55
 phone: "+64 3 982 8990"
-opening_hours: "Mo-Th 08:00-20:00 Fr-Sa 9:00-21:00 Su 10:00-18:00"
+opening_hours: "Mo-Th 08:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-18:00"
 website: ""

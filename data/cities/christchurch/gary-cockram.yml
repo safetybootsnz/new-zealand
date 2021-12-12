@@ -7,5 +7,5 @@ city: Christchurch
 street: "Durham Street South"
 housenumber: 211
 phone: "03 366 4852"
-opening_hours: "Mo-Fr 08:00-18:00 Sa 09:00-17:00 Su 10:00-15:00"
+opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-17:00; Su 10:00-15:00"
 website: "https://www.garycockram.co.nz/"
