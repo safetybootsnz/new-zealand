@@ -1,11 +1,11 @@
 id: 5625895014
 type: node
-latitude: -40.8581735
-longitude: 172.8065728
+latitude: -40.8581767
+longitude: 172.8065946
 postcode: "7142"
 city: Takaka
-street: "Commercial Street"
-housenumber: 74
+street: "Commercial Street;Buxton Lane"
+housenumber: 74;3
 phone: "+64 3 525 7891"
 opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"
 website: "https://www.pggwrightson.co.nz/"
