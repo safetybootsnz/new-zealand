@@ -1,6 +1,6 @@
 ---
 title: Kenepuru, Porirua
 url: /kenepuru-porirua/
-latitude: 
-longitude: 
+latitude: -41.149
+longitude: 174.827
 ---

@@ -1,6 +1,6 @@
 ---
 title: Te Aroha
 url: /te-aroha/
-latitude: -37.542903700000004
-longitude: 175.7126747
+latitude: -37.544
+longitude: 175.709
 ---

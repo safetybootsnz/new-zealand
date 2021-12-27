@@ -1,6 +1,6 @@
 ---
 title: Mt. Roskill
 url: /mt-roskill/
-latitude: 
-longitude: 
+latitude: -36.92
+longitude: 174.737
 ---

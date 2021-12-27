@@ -1,5 +1,5 @@
 ---
 title: "Waikato Mobility Equipment"
 url: /hamilton/waikato-mobility-equipment/
-shop: shop
+shop: Allgemein
 ---

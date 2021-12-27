@@ -1,6 +1,6 @@
 ---
 title: Central Auckland
 url: /central-auckland/
-latitude: 
-longitude: 
+latitude: -36.855
+longitude: 174.767
 ---

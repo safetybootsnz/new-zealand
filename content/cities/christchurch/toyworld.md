@@ -1,5 +1,5 @@
 ---
 title: "Toyworld"
 url: /christchurch/toyworld/
-shop: toys
+shop: Spielzeug
 ---

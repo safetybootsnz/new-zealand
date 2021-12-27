@@ -1,5 +1,5 @@
 ---
 title: "Poppies"
 url: /hamilton/poppies/
-shop: books
+shop: Bücher
 ---

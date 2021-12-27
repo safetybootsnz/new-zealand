@@ -1,5 +1,5 @@
 ---
 title: "Jaycar"
 url: /rotorua/jaycar/
-shop: electronics
+shop: Elektronik
 ---

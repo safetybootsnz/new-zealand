@@ -1,5 +1,5 @@
 ---
 title: "Petworld"
 url: /christchurch/petworld/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Four Square Kapiti"
 url: /paraparaumu/four-square-kapiti/
-shop: supermarket
+shop: Supermarkt
 ---

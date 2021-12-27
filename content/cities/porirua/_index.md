@@ -1,6 +1,6 @@
 ---
 title: Porirua
 url: /porirua/
-latitude: -41.1354696
-longitude: 174.8398067
+latitude: -41.117
+longitude: 174.893
 ---

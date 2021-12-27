@@ -1,5 +1,5 @@
 ---
 title: "wildlife"
 url: /hanmer-springs/wildlife/
-shop: clothes
+shop: Kleidung
 ---

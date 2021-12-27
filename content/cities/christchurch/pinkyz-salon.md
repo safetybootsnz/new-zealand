@@ -1,5 +1,5 @@
 ---
 title: "Pinkyz Salon"
 url: /christchurch/pinkyz-salon/
-shop: hairdresser
+shop: Friseur
 ---

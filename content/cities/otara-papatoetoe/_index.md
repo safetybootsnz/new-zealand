@@ -1,6 +1,6 @@
 ---
 title: Ōtara-Papatoetoe
 url: /otara-papatoetoe/
-latitude: 
-longitude: 
+latitude: -36.991
+longitude: 174.868
 ---

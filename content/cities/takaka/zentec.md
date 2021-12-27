@@ -1,5 +1,5 @@
 ---
 title: "Zentec"
 url: /takaka/zentec/
-shop: computer
+shop: Computer
 ---

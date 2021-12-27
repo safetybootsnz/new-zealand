@@ -1,6 +1,6 @@
 ---
 title: Waitara
 url: /waitara/
-latitude: -39.0028236
-longitude: 174.2364324
+latitude: -39
+longitude: 174.237
 ---

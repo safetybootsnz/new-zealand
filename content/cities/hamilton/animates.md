@@ -1,5 +1,5 @@
 ---
 title: "Animates"
 url: /hamilton/animates/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quoil"
 url: /wellington/quoil/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,6 +1,6 @@
 ---
 title: Swannanoa
 url: /swannanoa/
-latitude: -43.380675600000004
-longitude: 172.47915030000001
+latitude: -43.363
+longitude: 172.473
 ---

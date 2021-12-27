@@ -1,5 +1,5 @@
 ---
 title: "Horotiu Foodcentre"
 url: /horotiu/horotiu-foodcentre/
-shop: convenience
+shop: Lebensmittel
 ---

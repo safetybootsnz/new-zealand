@@ -1,5 +1,5 @@
 ---
 title: "Lindsays"
 url: /takaka/lindsays/
-shop: clothes
+shop: Kleidung
 ---

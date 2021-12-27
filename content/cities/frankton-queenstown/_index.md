@@ -1,6 +1,6 @@
 ---
 title: Frankton, Queenstown
 url: /frankton-queenstown/
-latitude: 
-longitude: 
+latitude: -45.014
+longitude: 168.744
 ---

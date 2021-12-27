@@ -1,5 +1,5 @@
 ---
 title: "Stihl shop"
 url: /dunedin/stihl-shop/
-shop: shop
+shop: Allgemein
 ---

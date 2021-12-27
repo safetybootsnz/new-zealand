@@ -1,5 +1,5 @@
 ---
 title: "VTNZ"
 url: /rotorua/vtnz/
-shop: car repair
+shop: Autowerkstatt
 ---

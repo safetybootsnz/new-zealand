@@ -1,6 +1,6 @@
 ---
 title: Te Awamutu
 url: /te-awamutu/
-latitude: -38.0101564
-longitude: 175.32578270000002
+latitude: -38.011
+longitude: 175.327
 ---

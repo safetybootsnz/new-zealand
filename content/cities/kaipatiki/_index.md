@@ -1,6 +1,6 @@
 ---
 title: Kaipatiki
 url: /kaipatiki/
-latitude: 
-longitude: 
+latitude: -36.762
+longitude: 174.725
 ---

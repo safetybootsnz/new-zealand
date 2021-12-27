@@ -1,6 +1,6 @@
 ---
 title: Hokianga
 url: /hokianga/
-latitude: 
-longitude: 
+latitude: -35.534
+longitude: 173.439
 ---

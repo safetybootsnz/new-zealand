@@ -1,6 +1,6 @@
 ---
 title: Newtown, Wellington
 url: /newtown-wellington/
-latitude: 
-longitude: 
+latitude: -41.315
+longitude: 174.78
 ---

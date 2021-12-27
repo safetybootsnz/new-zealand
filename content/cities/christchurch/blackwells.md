@@ -1,5 +1,5 @@
 ---
 title: "Blackwells"
 url: /christchurch/blackwells/
-shop: car
+shop: Autohaus
 ---

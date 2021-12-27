@@ -1,5 +1,5 @@
 ---
 title: "Redcurrent"
 url: /christchurch/redcurrent/
-shop: gift
+shop: Andenken
 ---

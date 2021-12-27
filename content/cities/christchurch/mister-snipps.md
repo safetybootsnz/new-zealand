@@ -1,5 +1,5 @@
 ---
 title: "Mister Snipps"
 url: /christchurch/mister-snipps/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Noel Leeming"
 url: /auckland/noel-leeming/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,6 +1,6 @@
 ---
 title: Paraparaumu
 url: /paraparaumu/
-latitude: -40.914463600000005
-longitude: 175.0061963
+latitude: -40.903
+longitude: 174.991
 ---

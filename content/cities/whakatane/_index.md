@@ -1,6 +1,6 @@
 ---
 title: Whakatane
 url: /whakatane/
-latitude: -37.9519223
-longitude: 176.9945977
+latitude: -37.953
+longitude: 176.993
 ---

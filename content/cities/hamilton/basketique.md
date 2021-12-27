@@ -1,5 +1,5 @@
 ---
 title: "Basketique"
 url: /hamilton/basketique/
-shop: gift
+shop: Andenken
 ---

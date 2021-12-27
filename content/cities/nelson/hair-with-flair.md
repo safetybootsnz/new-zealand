@@ -1,5 +1,5 @@
 ---
 title: "Hair with Flair"
 url: /nelson/hair-with-flair/
-shop: hairdresser
+shop: Friseur
 ---

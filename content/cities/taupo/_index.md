@@ -1,6 +1,6 @@
 ---
 title: Taupo
 url: /taupo/
-latitude: 
-longitude: 
+latitude: -38.686
+longitude: 176.071
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waterview Superette And Lotto"
 url: /auckland/waterview-superette-and-lotto/
-shop: convenience
+shop: Lebensmittel
 ---

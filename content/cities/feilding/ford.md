@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /feilding/ford/
-shop: car
+shop: Autohaus
 ---

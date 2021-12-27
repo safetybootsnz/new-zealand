@@ -1,5 +1,5 @@
 ---
-title: piercing
+title: Piercing
 url: /piercing/
 icon: other
 ---

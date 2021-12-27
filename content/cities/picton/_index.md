@@ -1,6 +1,6 @@
 ---
 title: Picton
 url: /picton/
-latitude: -41.290916
-longitude: 174.006908
+latitude: -41.292
+longitude: 174.007
 ---

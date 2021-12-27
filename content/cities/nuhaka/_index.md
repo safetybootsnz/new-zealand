@@ -1,6 +1,6 @@
 ---
 title: Nuhaka
 url: /nuhaka/
-latitude: -39.0431605
-longitude: 177.7401192
+latitude: -39.041
+longitude: 177.742
 ---

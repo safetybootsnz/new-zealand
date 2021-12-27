@@ -1,5 +1,5 @@
 ---
 title: "Kingfisher Gifts"
 url: /waipawa/kingfisher-gifts/
-shop: gift
+shop: Andenken
 ---

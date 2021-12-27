@@ -1,6 +1,6 @@
 ---
 title: Methven
 url: /methven/
-latitude: -43.6324332
-longitude: 171.6472608
+latitude: -43.629
+longitude: 171.652
 ---

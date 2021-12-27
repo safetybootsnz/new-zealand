@@ -1,5 +1,5 @@
 ---
 title: "Countdown"
 url: /kerikeri/countdown/
-shop: supermarket
+shop: Supermarkt
 ---

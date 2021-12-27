@@ -1,5 +1,5 @@
 ---
 title: "NZ Safety Blackwoods"
 url: /christchurch/nz-safety-blackwoods/
-shop: clothes
+shop: Kleidung
 ---

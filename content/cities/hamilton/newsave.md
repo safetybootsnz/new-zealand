@@ -1,5 +1,5 @@
 ---
 title: "NewSave"
 url: /hamilton/newsave/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amika"
 url: /takaka/amika/
-shop: clothes
+shop: Kleidung
 ---

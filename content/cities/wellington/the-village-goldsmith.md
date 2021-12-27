@@ -1,5 +1,5 @@
 ---
 title: "The Village Goldsmith"
 url: /wellington/the-village-goldsmith/
-shop: jewelry
+shop: Schmuck
 ---

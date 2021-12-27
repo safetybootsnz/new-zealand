@@ -1,5 +1,5 @@
 ---
 title: "Wainuiomata Shopping Centre"
 url: /wainuiomata/wainuiomata-shopping-centre/
-shop: mall
+shop: Einkaufszentrum
 ---

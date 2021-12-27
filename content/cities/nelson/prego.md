@@ -1,5 +1,5 @@
 ---
 title: "Prego"
 url: /nelson/prego/
-shop: deli
+shop: Feinkost
 ---

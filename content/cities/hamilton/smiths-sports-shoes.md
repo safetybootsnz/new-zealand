@@ -1,5 +1,5 @@
 ---
 title: "Smiths Sports Shoes"
 url: /hamilton/smiths-sports-shoes/
-shop: shoes
+shop: Schuhe
 ---

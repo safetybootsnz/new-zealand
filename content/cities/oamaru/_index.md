@@ -1,6 +1,6 @@
 ---
 title: Oamaru
 url: /oamaru/
-latitude: -45.099768100000006
-longitude: 170.96842320000002
+latitude: -45.103
+longitude: 170.971
 ---

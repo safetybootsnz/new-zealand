@@ -1,5 +1,5 @@
 ---
 title: "Headlines"
 url: /wellington/headlines/
-shop: hairdresser
+shop: Friseur
 ---

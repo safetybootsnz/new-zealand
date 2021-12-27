@@ -1,5 +1,5 @@
 ---
 title: "Yakeda's Party + Giftware"
 url: /hamilton/yakedas-party-giftware/
-shop: gift
+shop: Andenken
 ---

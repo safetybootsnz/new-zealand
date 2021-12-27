@@ -1,5 +1,5 @@
 ---
 title: "Barkers"
 url: /wellington/barkers/
-shop: clothes
+shop: Kleidung
 ---

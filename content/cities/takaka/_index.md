@@ -1,6 +1,6 @@
 ---
 title: Takaka
 url: /takaka/
-latitude: -40.8574983
-longitude: 172.8062424
+latitude: -40.858
+longitude: 172.808
 ---

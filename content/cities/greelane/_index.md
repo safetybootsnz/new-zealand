@@ -1,6 +1,6 @@
 ---
 title: Greelane
 url: /greelane/
-latitude: 
-longitude: 
+latitude: -36.893
+longitude: 174.798
 ---

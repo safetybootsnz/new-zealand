@@ -1,6 +1,6 @@
 ---
 title: Waitemata
 url: /waitemata/
-latitude: 
-longitude: 
+latitude: -36.862
+longitude: 174.782
 ---

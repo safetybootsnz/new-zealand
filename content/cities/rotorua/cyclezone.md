@@ -1,5 +1,5 @@
 ---
 title: "Cyclezone"
 url: /rotorua/cyclezone/
-shop: bicycle
+shop: Fahrrad
 ---

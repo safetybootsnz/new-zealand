@@ -1,6 +1,6 @@
 ---
 title: Waipawa
 url: /waipawa/
-latitude: -39.941133300000004
-longitude: 176.591342
+latitude: -39.943
+longitude: 176.588
 ---

@@ -1,6 +1,6 @@
 ---
 title: Petone
 url: /petone/
-latitude: -41.224967500000005
-longitude: 174.8790351
+latitude: -41.225
+longitude: 174.879
 ---

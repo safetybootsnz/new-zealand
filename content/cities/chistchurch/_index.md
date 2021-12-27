@@ -1,6 +1,6 @@
 ---
 title: Chistchurch
 url: /chistchurch/
-latitude: 
-longitude: 
+latitude: -43.54
+longitude: 172.624
 ---

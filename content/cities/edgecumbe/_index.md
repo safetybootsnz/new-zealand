@@ -1,6 +1,6 @@
 ---
 title: Edgecumbe
 url: /edgecumbe/
-latitude: -37.9772022
-longitude: 176.8280177
+latitude: -37.976
+longitude: 176.828
 ---

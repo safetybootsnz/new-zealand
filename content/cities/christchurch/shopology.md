@@ -1,5 +1,5 @@
 ---
 title: "Shopology"
 url: /christchurch/shopology/
-shop: gift
+shop: Andenken
 ---

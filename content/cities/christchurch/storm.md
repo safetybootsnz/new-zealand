@@ -1,5 +1,5 @@
 ---
 title: "Storm"
 url: /christchurch/storm/
-shop: clothes
+shop: Kleidung
 ---

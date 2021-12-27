@@ -1,6 +1,6 @@
 ---
 title: Wainuiomata
 url: /wainuiomata/
-latitude: -41.2618075
-longitude: 174.94806960000003
+latitude: -41.26
+longitude: 174.944
 ---

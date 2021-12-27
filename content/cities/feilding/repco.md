@@ -1,5 +1,5 @@
 ---
 title: "Repco"
 url: /feilding/repco/
-shop: car parts
+shop: Autoteile
 ---

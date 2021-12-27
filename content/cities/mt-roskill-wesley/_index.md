@@ -1,6 +1,6 @@
 ---
 title: Mt. Roskill, Wesley
 url: /mt-roskill-wesley/
-latitude: 
-longitude: 
+latitude: -36.907
+longitude: 174.731
 ---

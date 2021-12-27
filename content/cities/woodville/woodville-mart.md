@@ -1,5 +1,5 @@
 ---
 title: "Woodville Mart"
 url: /woodville/woodville-mart/
-shop: charity
+shop: Gebrauchtwaren
 ---

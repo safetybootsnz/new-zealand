@@ -1,5 +1,5 @@
 ---
 title: "The Computer Place"
 url: /paraparaumu/the-computer-place/
-shop: computer
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Liquorland"
 url: /takaka/liquorland/
-shop: alcohol
+shop: Spirituosen
 ---

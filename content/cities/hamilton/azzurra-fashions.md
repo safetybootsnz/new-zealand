@@ -1,5 +1,5 @@
 ---
 title: "Azzurra Fashions"
 url: /hamilton/azzurra-fashions/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Couplands"
 url: /christchurch/couplands/
-shop: bakery
+shop: Bäckerei
 ---

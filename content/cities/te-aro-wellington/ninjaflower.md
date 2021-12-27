@@ -1,5 +1,5 @@
 ---
 title: "Ninjaflower"
 url: /te-aro-wellington/ninjaflower/
-shop: tattoo
+shop: Tattoo
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mt Somers
 url: /mt-somers/
-latitude: 
-longitude: 
+latitude: -43.706
+longitude: 171.402
 ---

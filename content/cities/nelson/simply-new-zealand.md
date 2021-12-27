@@ -1,5 +1,5 @@
 ---
 title: "Simply New Zealand"
 url: /nelson/simply-new-zealand/
-shop: gift
+shop: Andenken
 ---

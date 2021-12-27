@@ -1,6 +1,6 @@
 ---
 title: Addington, Christchurch
 url: /addington-christchurch/
-latitude: 
-longitude: 
+latitude: -43.538
+longitude: 172.607
 ---

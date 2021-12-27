@@ -1,5 +1,5 @@
 ---
 title: "Trade Aid"
 url: /palmerston-north/trade-aid/
-shop: charity
+shop: Gebrauchtwaren
 ---

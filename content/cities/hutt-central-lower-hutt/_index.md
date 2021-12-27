@@ -1,6 +1,6 @@
 ---
 title: Hutt Central, Lower Hutt
 url: /hutt-central-lower-hutt/
-latitude: 
-longitude: 
+latitude: -41.208
+longitude: 174.903
 ---

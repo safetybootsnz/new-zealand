@@ -1,5 +1,5 @@
 ---
 title: "Aro Video"
 url: /wellington/aro-video/
-shop: video
+shop: Videothek
 ---

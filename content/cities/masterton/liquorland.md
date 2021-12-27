@@ -1,5 +1,5 @@
 ---
 title: "Liquorland"
 url: /masterton/liquorland/
-shop: alcohol
+shop: Spirituosen
 ---

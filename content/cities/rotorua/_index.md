@@ -1,6 +1,6 @@
 ---
 title: rotorua
 url: /rotorua/
-latitude: 
-longitude: 
+latitude: -38.125
+longitude: 176.232
 ---

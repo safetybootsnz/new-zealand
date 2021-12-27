@@ -1,6 +1,6 @@
 ---
 title: Benneydale
 url: /benneydale/
-latitude: 
-longitude: 
+latitude: -38.52
+longitude: 175.365
 ---

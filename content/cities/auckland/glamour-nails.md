@@ -1,5 +1,5 @@
 ---
 title: "Glamour Nails"
 url: /auckland/glamour-nails/
-shop: beauty
+shop: Kosmetik
 ---

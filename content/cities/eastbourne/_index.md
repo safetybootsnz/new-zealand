@@ -1,6 +1,6 @@
 ---
 title: Eastbourne
 url: /eastbourne/
-latitude: -41.2913416
-longitude: 174.89841750000002
+latitude: -41.29
+longitude: 174.897
 ---

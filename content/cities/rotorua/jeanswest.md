@@ -1,5 +1,5 @@
 ---
 title: "Jeanswest"
 url: /rotorua/jeanswest/
-shop: clothes
+shop: Kleidung
 ---

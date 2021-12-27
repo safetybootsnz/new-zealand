@@ -1,6 +1,6 @@
 ---
 title: Otahuhu
 url: /otahuhu/
-latitude: 
-longitude: 
+latitude: -36.944
+longitude: 174.845
 ---

@@ -1,6 +1,6 @@
 ---
 title: Levin
 url: /levin/
-latitude: -40.621816100000004
-longitude: 175.2865854
+latitude: -40.616
+longitude: 175.296
 ---

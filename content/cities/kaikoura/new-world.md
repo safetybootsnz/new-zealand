@@ -1,5 +1,5 @@
 ---
 title: "New World"
 url: /kaikoura/new-world/
-shop: supermarket
+shop: Supermarkt
 ---

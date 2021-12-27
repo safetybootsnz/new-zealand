@@ -1,5 +1,5 @@
 ---
 title: "Aarque Graphics"
 url: /hamilton/aarque-graphics/
-shop: shop
+shop: Allgemein
 ---

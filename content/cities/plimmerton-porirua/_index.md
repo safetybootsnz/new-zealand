@@ -1,6 +1,6 @@
 ---
 title: Plimmerton, Porirua
 url: /plimmerton-porirua/
-latitude: 
-longitude: 
+latitude: -41.084
+longitude: 174.868
 ---

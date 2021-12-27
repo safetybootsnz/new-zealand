@@ -1,5 +1,5 @@
 ---
 title: "Countdown"
 url: /napier/countdown/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Laundromat"
 url: /hamilton/laundromat/
-shop: laundry
+shop: Wäscherei
 ---

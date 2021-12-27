@@ -1,5 +1,5 @@
 ---
 title: "DragonFly"
 url: /takaka/dragonfly/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,6 +1,6 @@
 ---
 title: Makaraka, Gisborne
 url: /makaraka-gisborne/
-latitude: 
-longitude: 
+latitude: -38.649
+longitude: 177.966
 ---

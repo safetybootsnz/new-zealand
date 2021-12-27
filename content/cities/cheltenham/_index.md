@@ -1,6 +1,6 @@
 ---
 title: Cheltenham
 url: /cheltenham/
-latitude: -36.8238015
-longitude: 174.80697600000002
+latitude: -40.138
+longitude: 175.66
 ---

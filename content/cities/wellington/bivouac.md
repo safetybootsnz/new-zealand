@@ -1,5 +1,5 @@
 ---
 title: "Bivouac"
 url: /wellington/bivouac/
-shop: outdoor
+shop: Outdoor
 ---

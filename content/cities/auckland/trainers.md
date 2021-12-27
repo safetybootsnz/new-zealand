@@ -1,5 +1,5 @@
 ---
 title: "Trainers"
 url: /auckland/trainers/
-shop: sports
+shop: Sport
 ---

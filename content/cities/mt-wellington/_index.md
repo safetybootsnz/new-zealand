@@ -1,6 +1,6 @@
 ---
 title: Mt Wellington
 url: /mt-wellington/
-latitude: 
-longitude: 
+latitude: -36.892
+longitude: 174.836
 ---

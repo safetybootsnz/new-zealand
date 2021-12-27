@@ -1,5 +1,5 @@
 ---
 title: "Nirvana"
 url: /christchurch/nirvana/
-shop: beauty
+shop: Kosmetik
 ---

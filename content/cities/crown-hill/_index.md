@@ -1,6 +1,6 @@
 ---
 title: Crown Hill
 url: /crown-hill/
-latitude: 
-longitude: 
+latitude: -36.764
+longitude: 174.756
 ---

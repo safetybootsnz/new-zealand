@@ -1,6 +1,6 @@
 ---
 title: Waikanae Beach
 url: /waikanae-beach/
-latitude: -40.8707183
-longitude: 175.01677310000002
+latitude: -40.866
+longitude: 175.026
 ---

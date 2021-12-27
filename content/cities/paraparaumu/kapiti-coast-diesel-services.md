@@ -1,5 +1,5 @@
 ---
 title: "Kapiti Coast Diesel Services"
 url: /paraparaumu/kapiti-coast-diesel-services/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kims Corner Dairy"
 url: /christchurch/kims-corner-dairy/
-shop: supermarket
+shop: Supermarkt
 ---

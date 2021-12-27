@@ -1,5 +1,5 @@
 ---
 title: "Hartleys"
 url: /napier/hartleys/
-shop: clothes
+shop: Kleidung
 ---

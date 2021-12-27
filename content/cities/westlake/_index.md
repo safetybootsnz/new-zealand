@@ -1,6 +1,6 @@
 ---
 title: Westlake
 url: /westlake/
-latitude: 
-longitude: 
+latitude: -36.776
+longitude: 174.755
 ---

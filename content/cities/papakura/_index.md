@@ -1,6 +1,6 @@
 ---
 title: Papakura
 url: /papakura/
-latitude: -37.064265
-longitude: 174.9446665
+latitude: -37.063
+longitude: 174.941
 ---

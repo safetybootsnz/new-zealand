@@ -1,5 +1,5 @@
 ---
 title: "Liquor King"
 url: /christchurch/liquor-king/
-shop: alcohol
+shop: Spirituosen
 ---

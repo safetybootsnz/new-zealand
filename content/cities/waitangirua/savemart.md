@@ -1,5 +1,5 @@
 ---
 title: "Savemart"
 url: /waitangirua/savemart/
-shop: charity
+shop: Gebrauchtwaren
 ---

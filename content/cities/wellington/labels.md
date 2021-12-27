@@ -1,5 +1,5 @@
 ---
 title: "Labels"
 url: /wellington/labels/
-shop: charity
+shop: Gebrauchtwaren
 ---

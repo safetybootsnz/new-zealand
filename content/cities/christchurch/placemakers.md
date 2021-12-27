@@ -1,5 +1,5 @@
 ---
 title: "PlaceMakers"
 url: /christchurch/placemakers/
-shop: doityourself
+shop: Baumarkt
 ---

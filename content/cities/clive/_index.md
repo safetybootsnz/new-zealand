@@ -1,6 +1,6 @@
 ---
 title: Clive
 url: /clive/
-latitude: -39.5828238
-longitude: 176.91547540000002
+latitude: -39.584
+longitude: 176.916
 ---

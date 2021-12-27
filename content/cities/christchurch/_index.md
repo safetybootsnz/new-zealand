@@ -1,6 +1,6 @@
 ---
 title: Christchurch
 url: /christchurch/
-latitude: 
-longitude: 
+latitude: -43.535
+longitude: 172.59
 ---

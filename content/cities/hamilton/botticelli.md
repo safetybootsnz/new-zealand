@@ -1,5 +1,5 @@
 ---
 title: "Botticelli"
 url: /hamilton/botticelli/
-shop: clothes
+shop: Kleidung
 ---

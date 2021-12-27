@@ -1,6 +1,6 @@
 ---
 title: St Heliers
 url: /st-heliers/
-latitude: 
-longitude: 
+latitude: -36.855
+longitude: 174.852
 ---

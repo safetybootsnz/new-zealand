@@ -1,5 +1,5 @@
 ---
 title: "Strictly Adult"
 url: /hamilton/strictly-adult/
-shop: erotic
+shop: Erotik
 ---

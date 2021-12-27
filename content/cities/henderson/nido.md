@@ -1,5 +1,5 @@
 ---
 title: "Nido"
 url: /henderson/nido/
-shop: furniture
+shop: Möbel
 ---

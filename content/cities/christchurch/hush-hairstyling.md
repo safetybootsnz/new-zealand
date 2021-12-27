@@ -1,5 +1,5 @@
 ---
 title: "Hush Hairstyling"
 url: /christchurch/hush-hairstyling/
-shop: hairdresser
+shop: Friseur
 ---

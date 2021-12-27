@@ -1,5 +1,5 @@
 ---
 title: "Postie"
 url: /kaikoura/postie/
-shop: clothes
+shop: Kleidung
 ---

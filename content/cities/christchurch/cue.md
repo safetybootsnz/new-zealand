@@ -1,5 +1,5 @@
 ---
 title: "Cue"
 url: /christchurch/cue/
-shop: clothes
+shop: Kleidung
 ---

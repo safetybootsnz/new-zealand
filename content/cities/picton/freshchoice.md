@@ -1,5 +1,5 @@
 ---
 title: "FreshChoice"
 url: /picton/freshchoice/
-shop: supermarket
+shop: Supermarkt
 ---

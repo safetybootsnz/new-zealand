@@ -1,5 +1,5 @@
 ---
 title: "Southern Cross Dairy"
 url: /hamilton/southern-cross-dairy/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Otago Rowing Club"
 url: /dunedin/otago-rowing-club/
-shop: sports
+shop: Sport
 ---

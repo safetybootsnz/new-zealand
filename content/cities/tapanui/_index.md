@@ -1,6 +1,6 @@
 ---
 title: Tapanui
 url: /tapanui/
-latitude: -45.9425171
-longitude: 169.2619453
+latitude: -45.943
+longitude: 169.261
 ---

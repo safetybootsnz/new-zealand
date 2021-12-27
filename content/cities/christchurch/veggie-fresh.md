@@ -1,5 +1,5 @@
 ---
 title: "Veggie Fresh"
 url: /christchurch/veggie-fresh/
-shop: greengrocer
+shop: Gemüse & Obst
 ---
