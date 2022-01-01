@@ -1,5 +1,5 @@
 ---
 title: "Coupland's"
-url: /dunedin/couplands/
+url: /blenheim/couplands/
 shop: Bäckerei
 ---
