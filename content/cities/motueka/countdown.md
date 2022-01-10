@@ -1,5 +1,5 @@
 ---
 title: "Countdown"
 url: /motueka/countdown/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bazza’s Barber"
 url: /christchurch/bazzas-barber/
-shop: Friseur
+shop: hairdresser
 ---

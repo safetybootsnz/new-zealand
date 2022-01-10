@@ -1,5 +1,5 @@
 ---
 title: "J Golf NZ"
 url: /auckland/j-golf-nz/
-shop: Sport
+shop: sports
 ---

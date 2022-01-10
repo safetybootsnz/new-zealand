@@ -1,5 +1,5 @@
 ---
 title: "Cake Eating Company"
 url: /christchurch/cake-eating-company/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Manutuke General Store"
 url: /manutuke/manutuke-general-store/
-shop: Dorfladen
+shop: general
 ---

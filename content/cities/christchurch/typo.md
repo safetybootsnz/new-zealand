@@ -1,5 +1,5 @@
 ---
 title: "Typo"
 url: /christchurch/typo/
-shop: Schreibwaren
+shop: office supplies
 ---

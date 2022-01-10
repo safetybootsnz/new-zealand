@@ -1,5 +1,5 @@
 ---
 title: "Harvey Norman"
 url: /nelson/harvey-norman/
-shop: Warenhaus
+shop: department store
 ---

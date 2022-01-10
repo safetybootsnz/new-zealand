@@ -1,5 +1,5 @@
 ---
 title: "SuperiorHair"
 url: /auckland/superiorhair/
-shop: Friseur
+shop: hairdresser
 ---

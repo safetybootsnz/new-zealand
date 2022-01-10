@@ -1,5 +1,5 @@
 ---
 title: "DTR"
 url: /hamilton/dtr/
-shop: Haushaltsgeräte
+shop: appliance
 ---

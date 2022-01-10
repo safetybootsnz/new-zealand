@@ -1,5 +1,5 @@
 ---
 title: "Elephant Hill"
 url: /te-awanga/elephant-hill/
-shop: Wein
+shop: wine
 ---

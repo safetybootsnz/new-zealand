@@ -1,5 +1,5 @@
 ---
 title: "Dress Smart"
 url: /christchurch/dress-smart/
-shop: Einkaufszentrum
+shop: mall
 ---

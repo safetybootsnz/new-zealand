@@ -1,5 +1,5 @@
 ---
 title: "TAB"
 url: /wellington/tab/
-shop: Wettbüro
+shop: bookmaker
 ---

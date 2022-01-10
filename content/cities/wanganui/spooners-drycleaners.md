@@ -1,5 +1,5 @@
 ---
 title: "Spooners Drycleaners"
 url: /wanganui/spooners-drycleaners/
-shop: Wäscherei
+shop: laundry
 ---

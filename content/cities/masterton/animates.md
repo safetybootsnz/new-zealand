@@ -1,5 +1,5 @@
 ---
 title: "Animates"
 url: /masterton/animates/
-shop: Tiere
+shop: pet
 ---

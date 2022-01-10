@@ -1,5 +1,5 @@
 ---
 title: "Satchmo"
 url: /christchurch/satchmo/
-shop: Friseur
+shop: hairdresser
 ---

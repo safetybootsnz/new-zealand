@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /masterton/specsavers/
-shop: Optiker
+shop: optician
 ---

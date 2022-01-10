@@ -1,5 +1,5 @@
 ---
 title: "Four Square"
 url: /twizel/four-square/
-shop: Supermarkt
+shop: supermarket
 ---

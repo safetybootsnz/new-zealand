@@ -1,5 +1,5 @@
 ---
 title: "Frogmore"
 url: /christchurch/frogmore/
-shop: Andenken
+shop: gift
 ---

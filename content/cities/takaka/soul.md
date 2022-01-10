@@ -1,5 +1,5 @@
 ---
 title: "Soul"
 url: /takaka/soul/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PB Tech"
 url: /auckland/pb-tech-2/
-shop: Computer
+shop: computer
 ---

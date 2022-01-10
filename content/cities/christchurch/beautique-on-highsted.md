@@ -1,5 +1,5 @@
 ---
 title: "Beautique On Highsted"
 url: /christchurch/beautique-on-highsted/
-shop: Kosmetik
+shop: beauty
 ---

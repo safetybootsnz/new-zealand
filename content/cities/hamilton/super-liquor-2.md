@@ -1,5 +1,5 @@
 ---
 title: "Super Liquor"
 url: /hamilton/super-liquor-2/
-shop: Spirituosen
+shop: alcohol
 ---

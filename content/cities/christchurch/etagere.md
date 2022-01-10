@@ -1,5 +1,5 @@
 ---
 title: "Étagère"
 url: /christchurch/etagere/
-shop: Andenken
+shop: gift
 ---

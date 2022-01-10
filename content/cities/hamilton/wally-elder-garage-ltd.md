@@ -1,5 +1,5 @@
 ---
 title: "Wally Elder Garage Ltd"
 url: /hamilton/wally-elder-garage-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

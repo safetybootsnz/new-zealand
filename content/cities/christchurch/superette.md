@@ -1,5 +1,5 @@
 ---
 title: "Superette"
 url: /christchurch/superette/
-shop: Kleidung
+shop: clothes
 ---

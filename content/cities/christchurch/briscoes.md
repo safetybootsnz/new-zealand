@@ -1,5 +1,5 @@
 ---
 title: "Briscoes"
 url: /christchurch/briscoes/
-shop: Warenhaus
+shop: department store
 ---

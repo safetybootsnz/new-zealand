@@ -1,5 +1,5 @@
 ---
 title: "Grin Hairdressing"
 url: /riverton/grin-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

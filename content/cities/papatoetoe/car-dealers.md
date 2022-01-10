@@ -1,5 +1,5 @@
 ---
 title: "Car dealers"
 url: /papatoetoe/car-dealers/
-shop: Autohaus
+shop: car
 ---

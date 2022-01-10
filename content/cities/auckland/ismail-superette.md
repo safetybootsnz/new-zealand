@@ -1,5 +1,5 @@
 ---
 title: "Ismail Superette"
 url: /auckland/ismail-superette/
-shop: Lebensmittel
+shop: convenience
 ---

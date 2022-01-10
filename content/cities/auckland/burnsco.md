@@ -1,5 +1,5 @@
 ---
 title: "Burnsco"
 url: /auckland/burnsco/
-shop: Allgemein
+shop: shop
 ---

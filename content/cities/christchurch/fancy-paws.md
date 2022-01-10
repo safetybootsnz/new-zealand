@@ -1,5 +1,5 @@
 ---
 title: "Fancy Paws"
 url: /christchurch/fancy-paws/
-shop: Tiersalon
+shop: pet grooming
 ---

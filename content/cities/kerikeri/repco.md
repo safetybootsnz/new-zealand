@@ -1,5 +1,5 @@
 ---
 title: "Repco"
 url: /kerikeri/repco/
-shop: Autoteile
+shop: car parts
 ---

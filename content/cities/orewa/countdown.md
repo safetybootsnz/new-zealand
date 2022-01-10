@@ -1,5 +1,5 @@
 ---
 title: "Countdown"
 url: /orewa/countdown/
-shop: Supermarkt
+shop: supermarket
 ---

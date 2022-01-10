@@ -1,5 +1,5 @@
 ---
 title: "Home Hardware"
 url: /waihi-beach/home-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

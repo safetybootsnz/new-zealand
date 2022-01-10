@@ -1,5 +1,5 @@
 ---
 title: "FreshChoice"
 url: /geraldine/freshchoice/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paper Tree PostShop KiwiBank"
 url: /christchurch/paper-tree-postshop-kiwibank/
-shop: Basteln
+shop: craft
 ---

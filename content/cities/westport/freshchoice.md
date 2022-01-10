@@ -1,5 +1,5 @@
 ---
 title: "FreshChoice"
 url: /westport/freshchoice/
-shop: Supermarkt
+shop: supermarket
 ---

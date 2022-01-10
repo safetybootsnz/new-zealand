@@ -1,5 +1,5 @@
 ---
 title: "Taylored Ink"
 url: /hamilton/taylored-ink/
-shop: Tattoo
+shop: tattoo
 ---

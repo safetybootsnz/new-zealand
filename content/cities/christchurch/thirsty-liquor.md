@@ -1,5 +1,5 @@
 ---
 title: "Thirsty Liquor"
 url: /christchurch/thirsty-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

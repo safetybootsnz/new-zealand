@@ -1,5 +1,5 @@
 ---
 title: "NV Hair"
 url: /hamilton/nv-hair/
-shop: Friseur
+shop: hairdresser
 ---

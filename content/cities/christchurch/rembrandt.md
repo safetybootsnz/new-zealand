@@ -1,5 +1,5 @@
 ---
 title: "Rembrandt"
 url: /christchurch/rembrandt/
-shop: Kleidung
+shop: clothes
 ---

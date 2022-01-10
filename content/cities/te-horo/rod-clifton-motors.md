@@ -1,5 +1,5 @@
 ---
 title: "Rod Clifton Motors"
 url: /te-horo/rod-clifton-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

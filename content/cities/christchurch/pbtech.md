@@ -1,5 +1,5 @@
 ---
 title: "PBTech"
 url: /christchurch/pbtech/
-shop: Computer
+shop: computer
 ---

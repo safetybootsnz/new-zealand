@@ -1,5 +1,5 @@
 ---
 title: "Pohutukawa Gallery"
 url: /takaka/pohutukawa-gallery/
-shop: Allgemein
+shop: shop
 ---

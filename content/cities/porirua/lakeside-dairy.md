@@ -1,5 +1,5 @@
 ---
 title: "Lakeside Dairy"
 url: /porirua/lakeside-dairy/
-shop: Lebensmittel
+shop: convenience
 ---

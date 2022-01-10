@@ -1,5 +1,5 @@
 ---
 title: "Inspirations"
 url: /christchurch/inspirations/
-shop: Allgemein
+shop: shop
 ---

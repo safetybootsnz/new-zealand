@@ -1,5 +1,5 @@
 ---
 title: "Kapiti Allsafe Mini Storage"
 url: /paraparaumu/kapiti-allsafe-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

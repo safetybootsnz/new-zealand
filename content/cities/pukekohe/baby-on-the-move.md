@@ -1,5 +1,5 @@
 ---
 title: "Baby On The Move"
 url: /pukekohe/baby-on-the-move/
-shop: Babysachen
+shop: baby goods
 ---

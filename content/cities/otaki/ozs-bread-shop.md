@@ -1,5 +1,5 @@
 ---
 title: "Oz's Bread Shop"
 url: /otaki/ozs-bread-shop/
-shop: Bäckerei
+shop: bakery
 ---

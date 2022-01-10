@@ -1,5 +1,5 @@
 ---
 title: "Food4less"
 url: /otahuhu/food4less/
-shop: Supermarkt
+shop: supermarket
 ---

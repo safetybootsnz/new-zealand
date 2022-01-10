@@ -1,5 +1,5 @@
 ---
 title: "Terra Cat - Component Rebuild Centre (CRC)"
 url: /christchurch/terra-cat-component-rebuild-centre-crc/
-shop: Autowerkstatt
+shop: car repair
 ---

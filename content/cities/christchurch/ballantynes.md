@@ -1,5 +1,5 @@
 ---
 title: "Ballantynes"
 url: /christchurch/ballantynes/
-shop: Warenhaus
+shop: department store
 ---

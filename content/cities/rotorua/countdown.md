@@ -1,5 +1,5 @@
 ---
 title: "Countdown"
 url: /rotorua/countdown/
-shop: Supermarkt
+shop: supermarket
 ---

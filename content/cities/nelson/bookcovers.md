@@ -1,5 +1,5 @@
 ---
 title: "Bookcovers"
 url: /nelson/bookcovers/
-shop: Bücher
+shop: books
 ---

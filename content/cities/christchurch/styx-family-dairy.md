@@ -1,5 +1,5 @@
 ---
 title: "Styx Family Dairy"
 url: /christchurch/styx-family-dairy/
-shop: Lebensmittel
+shop: convenience
 ---

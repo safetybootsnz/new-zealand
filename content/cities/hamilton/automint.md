@@ -1,5 +1,5 @@
 ---
 title: "Automint"
 url: /hamilton/automint/
-shop: Beschriftungen
+shop: lettering
 ---

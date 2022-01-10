@@ -1,5 +1,5 @@
 ---
 title: "Tonys Tyre Service"
 url: /hamilton/tonys-tyre-service/
-shop: Autowerkstatt
+shop: car repair
 ---

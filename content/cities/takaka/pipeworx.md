@@ -1,5 +1,5 @@
 ---
 title: "Pipeworx"
 url: /takaka/pipeworx/
-shop: Eisenwaren
+shop: hardware
 ---

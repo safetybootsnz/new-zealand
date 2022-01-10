@@ -1,5 +1,5 @@
 ---
 title: "Zebrano"
 url: /hamilton/zebrano/
-shop: Kleidung
+shop: clothes
 ---

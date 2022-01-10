@@ -1,5 +1,5 @@
 ---
 title: "Whitcoulls"
 url: /christchurch/whitcoulls/
-shop: Bücher
+shop: books
 ---

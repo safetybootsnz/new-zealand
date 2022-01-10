@@ -1,5 +1,5 @@
 ---
 title: "Hunting and Fishing"
 url: /kaikoura/hunting-and-fishing/
-shop: Warenhaus
+shop: department store
 ---

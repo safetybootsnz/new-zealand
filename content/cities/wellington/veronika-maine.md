@@ -1,5 +1,5 @@
 ---
 title: "Veronika Maine"
 url: /wellington/veronika-maine/
-shop: Kleidung
+shop: clothes
 ---

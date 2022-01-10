@@ -1,5 +1,5 @@
 ---
 title: "Inlet Motors Limited"
 url: /porirua/inlet-motors-limited/
-shop: Autowerkstatt
+shop: car repair
 ---

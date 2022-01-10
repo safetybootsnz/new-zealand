@@ -1,5 +1,5 @@
 ---
 title: "Animates"
 url: /tauranga/animates/
-shop: Tiere
+shop: pet
 ---

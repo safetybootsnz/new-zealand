@@ -1,5 +1,5 @@
 ---
 title: "Savemart"
 url: /nelson/savemart/
-shop: Kleidung
+shop: clothes
 ---

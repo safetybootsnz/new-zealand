@@ -1,5 +1,5 @@
 ---
 title: "Ruby"
 url: /hamilton/ruby/
-shop: Kleidung
+shop: clothes
 ---

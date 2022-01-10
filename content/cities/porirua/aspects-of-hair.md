@@ -1,5 +1,5 @@
 ---
 title: "Aspects Of Hair"
 url: /porirua/aspects-of-hair/
-shop: Friseur
+shop: hairdresser
 ---

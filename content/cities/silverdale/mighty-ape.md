@@ -1,5 +1,5 @@
 ---
 title: "Mighty Ape"
 url: /silverdale/mighty-ape/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wildflower"
 url: /takaka/wildflower/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Four Square"
 url: /cheviot/four-square/
-shop: Supermarkt
+shop: supermarket
 ---

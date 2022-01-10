@@ -1,5 +1,5 @@
 ---
 title: "Freedom Furniture"
 url: /auckland/freedom-furniture/
-shop: Möbel
+shop: furniture
 ---

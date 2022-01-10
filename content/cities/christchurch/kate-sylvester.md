@@ -1,5 +1,5 @@
 ---
 title: "Kate Sylvester"
 url: /christchurch/kate-sylvester/
-shop: Kleidung
+shop: clothes
 ---

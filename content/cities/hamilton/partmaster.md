@@ -1,5 +1,5 @@
 ---
 title: "Partmaster"
 url: /hamilton/partmaster/
-shop: Autoteile
+shop: car parts
 ---

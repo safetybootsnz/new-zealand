@@ -1,5 +1,5 @@
 ---
 title: "Sterling Sports"
 url: /rotorua/sterling-sports/
-shop: Sport
+shop: sports
 ---

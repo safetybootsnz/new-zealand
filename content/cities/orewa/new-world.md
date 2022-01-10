@@ -1,5 +1,5 @@
 ---
 title: "New World"
 url: /orewa/new-world/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tauranga Minigolf"
 url: /tauranga/tauranga-minigolf/
-shop: Kiosk
+shop: kiosk
 ---

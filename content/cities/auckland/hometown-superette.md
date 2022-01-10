@@ -1,5 +1,5 @@
 ---
 title: "Hometown Superette"
 url: /auckland/hometown-superette/
-shop: Lebensmittel
+shop: convenience
 ---

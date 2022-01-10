@@ -1,5 +1,5 @@
 ---
 title: "Mount Shop"
 url: /hamilton/mount-shop/
-shop: Autoteile
+shop: car parts
 ---

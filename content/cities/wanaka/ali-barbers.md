@@ -1,5 +1,5 @@
 ---
 title: "Ali Barbers"
 url: /wanaka/ali-barbers/
-shop: Friseur
+shop: hairdresser
 ---

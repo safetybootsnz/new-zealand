@@ -1,5 +1,5 @@
 ---
 title: "Ankur Vintel Foodmarket"
 url: /upper-hutt/ankur-vintel-foodmarket/
-shop: Lebensmittel
+shop: convenience
 ---

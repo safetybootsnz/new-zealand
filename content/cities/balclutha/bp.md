@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /balclutha/bp/
-shop: Allgemein
+shop: shop
 ---

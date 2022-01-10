@@ -1,5 +1,5 @@
 ---
 title: "Turners Cars Porirua"
 url: /porirua/turners-cars-porirua/
-shop: Autohaus
+shop: car
 ---

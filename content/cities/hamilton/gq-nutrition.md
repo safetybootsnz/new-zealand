@@ -1,5 +1,5 @@
 ---
 title: "GQ Nutrition"
 url: /hamilton/gq-nutrition/
-shop: Allgemein
+shop: shop
 ---

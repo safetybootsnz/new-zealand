@@ -1,5 +1,5 @@
 ---
 title: "KRoad Auto Spares"
 url: /hamilton/kroad-auto-spares/
-shop: Autowerkstatt
+shop: car repair
 ---

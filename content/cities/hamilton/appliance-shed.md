@@ -1,5 +1,5 @@
 ---
 title: "Appliance Shed"
 url: /hamilton/appliance-shed/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Snells Beach Dairy"
 url: /snells-beach/snells-beach-dairy/
-shop: Lebensmittel
+shop: convenience
 ---

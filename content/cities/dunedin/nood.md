@@ -1,5 +1,5 @@
 ---
 title: "Nood"
 url: /dunedin/nood/
-shop: Möbel
+shop: furniture
 ---

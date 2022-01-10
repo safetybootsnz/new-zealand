@@ -1,5 +1,5 @@
 ---
 title: "Karori Park Store"
 url: /wellington/karori-park-store/
-shop: Lebensmittel
+shop: convenience
 ---

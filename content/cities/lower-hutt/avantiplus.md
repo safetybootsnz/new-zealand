@@ -1,5 +1,5 @@
 ---
 title: "AvantiPlus"
 url: /lower-hutt/avantiplus/
-shop: Fahrrad
+shop: bicycle
 ---

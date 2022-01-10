@@ -1,5 +1,5 @@
 ---
 title: "PB Tech"
 url: /hamilton/pb-tech/
-shop: Computer
+shop: computer
 ---

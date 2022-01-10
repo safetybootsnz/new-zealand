@@ -1,5 +1,5 @@
 ---
 title: "Farmlands"
 url: /masterton/farmlands/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

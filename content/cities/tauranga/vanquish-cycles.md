@@ -1,5 +1,5 @@
 ---
 title: "Vanquish Cycles"
 url: /tauranga/vanquish-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

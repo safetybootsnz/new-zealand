@@ -1,5 +1,5 @@
 ---
 title: "Kiwivelo"
 url: /takapuna/kiwivelo/
-shop: Fahrrad
+shop: bicycle
 ---

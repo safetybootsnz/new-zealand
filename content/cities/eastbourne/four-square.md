@@ -1,5 +1,5 @@
 ---
 title: "Four Square"
 url: /eastbourne/four-square/
-shop: Supermarkt
+shop: supermarket
 ---

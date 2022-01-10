@@ -1,5 +1,5 @@
 ---
 title: "Elite Meats"
 url: /hamilton/elite-meats/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hot Cycles"
 url: /st-heliers/hot-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

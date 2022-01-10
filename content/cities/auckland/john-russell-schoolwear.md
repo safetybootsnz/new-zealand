@@ -1,5 +1,5 @@
 ---
 title: "John Russell Schoolwear"
 url: /auckland/john-russell-schoolwear/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carters"
 url: /christchurch/carters/
-shop: Baumarkt
+shop: doityourself
 ---

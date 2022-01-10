@@ -1,5 +1,5 @@
 ---
 title: "Kennards Hire"
 url: /silverdale/kennards-hire/
-shop: Mieten
+shop: storage rental
 ---

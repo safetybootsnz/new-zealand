@@ -1,5 +1,5 @@
 ---
 title: "Velo Works"
 url: /hamilton/velo-works/
-shop: Fahrrad
+shop: bicycle
 ---

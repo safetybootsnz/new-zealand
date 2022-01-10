@@ -1,5 +1,5 @@
 ---
 title: "VTNZ"
 url: /christchurch/vtnz/
-shop: Autowerkstatt
+shop: car repair
 ---

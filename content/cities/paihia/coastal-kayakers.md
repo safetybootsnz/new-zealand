@@ -1,5 +1,5 @@
 ---
 title: "Coastal Kayakers"
 url: /paihia/coastal-kayakers/
-shop: Sport
+shop: sports
 ---

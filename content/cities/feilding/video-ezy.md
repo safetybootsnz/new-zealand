@@ -1,5 +1,5 @@
 ---
 title: "Video Ezy"
 url: /feilding/video-ezy/
-shop: Videothek
+shop: video
 ---

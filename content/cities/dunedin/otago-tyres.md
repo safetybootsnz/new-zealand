@@ -1,5 +1,5 @@
 ---
 title: "Otago Tyres"
 url: /dunedin/otago-tyres/
-shop: Reifen
+shop: tyres
 ---

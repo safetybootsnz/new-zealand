@@ -1,5 +1,5 @@
 ---
 title: "Auto Super Shoppes Waipawa"
 url: /waipawa/auto-super-shoppes-waipawa/
-shop: Autowerkstatt
+shop: car repair
 ---

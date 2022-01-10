@@ -1,5 +1,5 @@
 ---
 title: "New World"
 url: /waikanae/new-world/
-shop: Supermarkt
+shop: supermarket
 ---

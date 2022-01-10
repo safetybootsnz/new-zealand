@@ -1,5 +1,5 @@
 ---
 title: "Noel Leeming"
 url: /waipapa/noel-leeming/
-shop: Elektronik
+shop: electronics
 ---

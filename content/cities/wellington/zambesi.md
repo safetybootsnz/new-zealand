@@ -1,5 +1,5 @@
 ---
 title: "Zambesi"
 url: /wellington/zambesi/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Four Square Taita"
 url: /taita-lower-hutt/four-square-taita/
-shop: Lebensmittel
+shop: convenience
 ---

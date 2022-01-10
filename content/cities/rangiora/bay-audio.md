@@ -1,5 +1,5 @@
 ---
 title: "Bay Audio"
 url: /rangiora/bay-audio/
-shop: Hörgeräte
+shop: hearing aids
 ---

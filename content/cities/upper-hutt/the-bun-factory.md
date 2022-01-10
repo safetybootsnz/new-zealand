@@ -1,5 +1,5 @@
 ---
 title: "The Bun Factory"
 url: /upper-hutt/the-bun-factory/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Forest Furniture"
 url: /hamilton/forest-furniture/
-shop: Möbel
+shop: furniture
 ---

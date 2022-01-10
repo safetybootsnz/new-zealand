@@ -1,5 +1,5 @@
 ---
 title: "Abtract Designs"
 url: /te-aro-wellington/abtract-designs/
-shop: Andenken
+shop: gift
 ---

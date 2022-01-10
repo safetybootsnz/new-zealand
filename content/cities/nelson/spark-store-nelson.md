@@ -1,5 +1,5 @@
 ---
 title: "Spark Store Nelson"
 url: /nelson/spark-store-nelson/
-shop: Handy
+shop: mobile phone
 ---

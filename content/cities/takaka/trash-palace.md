@@ -1,5 +1,5 @@
 ---
 title: "Trash Palace"
 url: /takaka/trash-palace/
-shop: Kleidung
+shop: clothes
 ---

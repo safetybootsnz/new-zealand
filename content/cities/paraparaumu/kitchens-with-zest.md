@@ -1,5 +1,5 @@
 ---
 title: "Kitchens with ZEST"
 url: /paraparaumu/kitchens-with-zest/
-shop: Küchen
+shop: kitchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Hub Hornby"
 url: /christchurch/the-hub-hornby/
-shop: Einkaufszentrum
+shop: mall
 ---

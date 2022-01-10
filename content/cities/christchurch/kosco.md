@@ -1,5 +1,5 @@
 ---
 title: "Kosco"
 url: /christchurch/kosco/
-shop: Lebensmittel
+shop: convenience
 ---

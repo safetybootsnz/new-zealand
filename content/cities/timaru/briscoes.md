@@ -1,5 +1,5 @@
 ---
 title: "Briscoes"
 url: /timaru/briscoes/
-shop: Haushaltsartikel
+shop: houseware
 ---

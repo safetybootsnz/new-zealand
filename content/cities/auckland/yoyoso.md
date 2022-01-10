@@ -1,5 +1,5 @@
 ---
 title: "Yoyoso"
 url: /auckland/yoyoso/
-shop: Haushaltsartikel
+shop: houseware
 ---

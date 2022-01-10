@@ -1,5 +1,5 @@
 ---
 title: "Bel Merino NZ"
 url: /hamilton/bel-merino-nz/
-shop: Andenken
+shop: gift
 ---

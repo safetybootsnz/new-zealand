@@ -1,5 +1,5 @@
 ---
 title: "Max"
 url: /christchurch/max/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coast Wide Honda"
 url: /greymouth/coast-wide-honda/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hillcrest Auto Services"
 url: /hamilton/hillcrest-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

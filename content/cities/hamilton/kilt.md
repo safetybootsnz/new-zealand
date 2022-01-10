@@ -1,5 +1,5 @@
 ---
 title: "Kilt"
 url: /hamilton/kilt/
-shop: Kleidung
+shop: clothes
 ---

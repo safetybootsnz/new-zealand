@@ -1,5 +1,5 @@
 ---
 title: "KJ's Home and Pool"
 url: /kerikeri/kjs-home-and-pool/
-shop: Allgemein
+shop: shop
 ---

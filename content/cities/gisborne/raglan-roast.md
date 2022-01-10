@@ -1,5 +1,5 @@
 ---
 title: "Raglan Roast"
 url: /gisborne/raglan-roast/
-shop: Kaffee
+shop: coffee
 ---

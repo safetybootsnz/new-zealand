@@ -1,5 +1,5 @@
 ---
 title: "Baby on the Move"
 url: /hamilton/baby-on-the-move/
-shop: Babysachen
+shop: baby goods
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Netcafix"
 url: /hamilton/netcafix/
-shop: Allgemein
+shop: shop
 ---

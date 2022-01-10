@@ -1,5 +1,5 @@
 ---
 title: "Countdown"
 url: /cambridge/countdown/
-shop: Supermarkt
+shop: supermarket
 ---

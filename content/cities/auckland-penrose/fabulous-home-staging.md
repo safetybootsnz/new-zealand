@@ -1,5 +1,5 @@
 ---
 title: "Fabulous Home Staging"
 url: /auckland-penrose/fabulous-home-staging/
-shop: Möbel
+shop: furniture
 ---

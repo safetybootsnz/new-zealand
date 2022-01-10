@@ -1,5 +1,5 @@
 ---
 title: "Evo Cycles"
 url: /hamilton/evo-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

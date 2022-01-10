@@ -1,5 +1,5 @@
 ---
 title: "Arthur Burke Ltd"
 url: /waikari/arthur-burke-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

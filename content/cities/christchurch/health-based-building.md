@@ -1,5 +1,5 @@
 ---
 title: "Health based Building"
 url: /christchurch/health-based-building/
-shop: Eisenwaren
+shop: hardware
 ---

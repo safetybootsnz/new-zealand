@@ -1,5 +1,5 @@
 ---
 title: "dtr"
 url: /christchurch/dtr/
-shop: Haushaltsgeräte
+shop: appliance
 ---

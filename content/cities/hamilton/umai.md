@@ -1,5 +1,5 @@
 ---
 title: "Umai"
 url: /hamilton/umai/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

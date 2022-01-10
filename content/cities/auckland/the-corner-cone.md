@@ -1,5 +1,5 @@
 ---
 title: "The Corner Cone"
 url: /auckland/the-corner-cone/
-shop: Eisprodukte
+shop: ice cream
 ---

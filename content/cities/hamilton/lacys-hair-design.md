@@ -1,5 +1,5 @@
 ---
 title: "Lacy's Hair Design"
 url: /hamilton/lacys-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

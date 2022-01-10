@@ -1,5 +1,5 @@
 ---
 title: "Clever Kids NZ"
 url: /tauranga/clever-kids-nz/
-shop: Spielzeug
+shop: toys
 ---

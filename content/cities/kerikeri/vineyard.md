@@ -1,5 +1,5 @@
 ---
 title: "Vineyard"
 url: /kerikeri/vineyard/
-shop: Wein
+shop: wine
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SuperValue"
 url: /lyttelton/supervalue/
-shop: Supermarkt
+shop: supermarket
 ---

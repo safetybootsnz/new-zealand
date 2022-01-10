@@ -1,5 +1,5 @@
 ---
 title: "Coast Toyota"
 url: /greymouth/coast-toyota/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midnight Motors"
 url: /hamilton/midnight-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

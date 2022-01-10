@@ -1,5 +1,5 @@
 ---
 title: "Videoexpo"
 url: /hamilton/videoexpo/
-shop: Erotik
+shop: erotic
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garton Motors"
 url: /kaitaia/garton-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

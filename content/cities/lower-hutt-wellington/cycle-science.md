@@ -1,5 +1,5 @@
 ---
 title: "Cycle Science"
 url: /lower-hutt-wellington/cycle-science/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Uptown Art"
 url: /dunedin/uptown-art/
-shop: Basteln
+shop: craft
 ---

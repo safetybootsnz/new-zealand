@@ -1,5 +1,5 @@
 ---
 title: "BLOKE Barber"
 url: /dunedin/bloke-barber/
-shop: Friseur
+shop: hairdresser
 ---

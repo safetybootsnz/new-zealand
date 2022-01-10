@@ -1,5 +1,5 @@
 ---
 title: "Yoobee"
 url: /hamilton/yoobee/
-shop: Computer
+shop: computer
 ---

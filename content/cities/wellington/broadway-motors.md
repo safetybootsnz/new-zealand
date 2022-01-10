@@ -1,5 +1,5 @@
 ---
 title: "Broadway Motors"
 url: /wellington/broadway-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

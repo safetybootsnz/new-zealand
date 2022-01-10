@@ -1,5 +1,5 @@
 ---
 title: "SAECO Wilson"
 url: /dunedin/saeco-wilson/
-shop: Eisenwaren
+shop: hardware
 ---

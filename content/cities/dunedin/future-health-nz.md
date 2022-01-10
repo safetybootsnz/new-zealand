@@ -1,5 +1,5 @@
 ---
 title: "Future Health NZ"
 url: /dunedin/future-health-nz/
-shop: Kräuter
+shop: herbalist
 ---

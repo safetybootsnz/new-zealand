@@ -1,5 +1,5 @@
 ---
 title: "Canterbury Cutz"
 url: /christchurch/canterbury-cutz-2/
-shop: Friseur
+shop: hairdresser
 ---

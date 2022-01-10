@@ -1,5 +1,5 @@
 ---
 title: "Rockshop"
 url: /hamilton/rockshop/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crown Hill Superette"
 url: /crown-hill/crown-hill-superette/
-shop: Lebensmittel
+shop: convenience
 ---

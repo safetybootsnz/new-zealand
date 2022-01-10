@@ -1,5 +1,5 @@
 ---
 title: "Target Road Bakery"
 url: /kaipatiki/target-road-bakery/
-shop: Bäckerei
+shop: bakery
 ---

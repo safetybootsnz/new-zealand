@@ -1,5 +1,5 @@
 ---
 title: "Weight Watchers"
 url: /hamilton/weight-watchers/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

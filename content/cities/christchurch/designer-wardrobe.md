@@ -1,5 +1,5 @@
 ---
 title: "Designer Wardrobe"
 url: /christchurch/designer-wardrobe/
-shop: Kleidung
+shop: clothes
 ---

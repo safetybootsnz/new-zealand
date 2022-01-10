@@ -1,5 +1,5 @@
 ---
 title: "SuperValue"
 url: /hamilton/supervalue/
-shop: Lebensmittel
+shop: convenience
 ---

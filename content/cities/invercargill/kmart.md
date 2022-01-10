@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /invercargill/kmart/
-shop: Warenhaus
+shop: department store
 ---

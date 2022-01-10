@@ -1,5 +1,5 @@
 ---
 title: "Experience Motorcycles Kingsland"
 url: /auckland/experience-motorcycles-kingsland/
-shop: Motorrad
+shop: motorcycle
 ---

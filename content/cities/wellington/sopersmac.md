@@ -1,5 +1,5 @@
 ---
 title: "Sopersmac"
 url: /wellington/sopersmac/
-shop: Eisenwaren
+shop: hardware
 ---

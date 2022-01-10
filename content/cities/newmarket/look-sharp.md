@@ -1,5 +1,5 @@
 ---
 title: "Look Sharp"
 url: /newmarket/look-sharp/
-shop: Partyzubehör
+shop: party
 ---

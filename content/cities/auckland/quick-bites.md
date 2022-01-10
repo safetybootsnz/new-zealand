@@ -1,5 +1,5 @@
 ---
 title: "Quick Bites"
 url: /auckland/quick-bites/
-shop: Lebensmittel
+shop: convenience
 ---

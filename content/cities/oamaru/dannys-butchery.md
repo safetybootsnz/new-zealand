@@ -1,5 +1,5 @@
 ---
 title: "Danny's Butchery"
 url: /oamaru/dannys-butchery/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Golden Bay Organics"
 url: /takaka/golden-bay-organics/
-shop: Supermarkt
+shop: supermarket
 ---

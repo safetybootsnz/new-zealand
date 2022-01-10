@@ -1,5 +1,5 @@
 ---
 title: "Andrea Biana"
 url: /christchurch/andrea-biana/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /hamilton/cash-converters/
-shop: Gebrauchtwaren
+shop: charity
 ---

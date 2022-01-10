@@ -1,5 +1,5 @@
 ---
 title: "Experience Motorcycles Takapuna"
 url: /takapuna/experience-motorcycles-takapuna/
-shop: Motorrad
+shop: motorcycle
 ---

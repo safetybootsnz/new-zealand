@@ -1,5 +1,5 @@
 ---
 title: "MetroMart"
 url: /christchurch/metromart/
-shop: Lebensmittel
+shop: convenience
 ---

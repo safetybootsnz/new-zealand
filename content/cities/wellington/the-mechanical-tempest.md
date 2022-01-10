@@ -1,5 +1,5 @@
 ---
 title: "The Mechanical Tempest"
 url: /wellington/the-mechanical-tempest/
-shop: Fahrrad
+shop: bicycle
 ---

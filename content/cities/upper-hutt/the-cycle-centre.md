@@ -1,5 +1,5 @@
 ---
 title: "The Cycle Centre"
 url: /upper-hutt/the-cycle-centre/
-shop: Fahrrad
+shop: bicycle
 ---

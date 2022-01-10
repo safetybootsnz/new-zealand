@@ -1,5 +1,5 @@
 ---
 title: "Snapshot Cameras"
 url: /hamilton/snapshot-cameras/
-shop: Kamera
+shop: camera
 ---

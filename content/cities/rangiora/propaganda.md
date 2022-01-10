@@ -1,5 +1,5 @@
 ---
 title: "Propaganda"
 url: /rangiora/propaganda/
-shop: Kleidung
+shop: clothes
 ---

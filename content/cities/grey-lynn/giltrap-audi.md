@@ -1,5 +1,5 @@
 ---
 title: "Giltrap Audi"
 url: /grey-lynn/giltrap-audi/
-shop: Autohaus
+shop: car
 ---

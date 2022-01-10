@@ -1,5 +1,5 @@
 ---
 title: "PBTech Downtown"
 url: /auckland/pbtech-downtown/
-shop: Computer
+shop: computer
 ---

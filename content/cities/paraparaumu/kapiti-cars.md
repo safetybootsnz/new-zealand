@@ -1,5 +1,5 @@
 ---
 title: "Kapiti Cars"
 url: /paraparaumu/kapiti-cars/
-shop: Autohaus
+shop: car
 ---

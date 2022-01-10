@@ -1,5 +1,5 @@
 ---
 title: "Market"
 url: /nelson/market/
-shop: Supermarkt
+shop: supermarket
 ---

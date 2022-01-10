@@ -1,5 +1,5 @@
 ---
 title: "Countdown"
 url: /auckland/countdown/
-shop: Supermarkt
+shop: supermarket
 ---

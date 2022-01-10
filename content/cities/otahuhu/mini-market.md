@@ -1,5 +1,5 @@
 ---
 title: "Mini Market"
 url: /otahuhu/mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

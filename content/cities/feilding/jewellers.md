@@ -1,5 +1,5 @@
 ---
 title: "Jewellers"
 url: /feilding/jewellers/
-shop: Schmuck
+shop: jewelry
 ---

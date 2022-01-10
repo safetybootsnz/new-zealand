@@ -1,5 +1,5 @@
 ---
 title: "Bello"
 url: /wellington/bello/
-shop: Haushaltsartikel
+shop: houseware
 ---

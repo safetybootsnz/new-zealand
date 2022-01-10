@@ -1,5 +1,5 @@
 ---
 title: "Tasman Tyre Treads"
 url: /greymouth/tasman-tyre-treads/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rex Royale"
 url: /wellington/rex-royale/
-shop: Kleidung
+shop: clothes
 ---

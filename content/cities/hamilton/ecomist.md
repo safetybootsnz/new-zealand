@@ -1,5 +1,5 @@
 ---
 title: "EcoMist"
 url: /hamilton/ecomist/
-shop: Schädlingsbekämpfung
+shop: pest control
 ---

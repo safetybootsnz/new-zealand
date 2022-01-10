@@ -1,5 +1,5 @@
 ---
 title: "Catholic Book Shop"
 url: /dunedin/catholic-book-shop/
-shop: Bücher
+shop: books
 ---

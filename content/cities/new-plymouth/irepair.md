@@ -1,5 +1,5 @@
 ---
 title: "iRepair"
 url: /new-plymouth/irepair/
-shop: Handy
+shop: mobile phone
 ---

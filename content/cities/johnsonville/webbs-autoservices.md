@@ -1,5 +1,5 @@
 ---
 title: "Webbs Autoservices"
 url: /johnsonville/webbs-autoservices/
-shop: Autowerkstatt
+shop: car repair
 ---

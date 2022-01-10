@@ -1,5 +1,5 @@
 ---
 title: "Crusaders Firewood Mark Cairns Timber"
 url: /christchurch/crusaders-firewood-mark-cairns-timber/
-shop: Garten-Center
+shop: garden centre
 ---

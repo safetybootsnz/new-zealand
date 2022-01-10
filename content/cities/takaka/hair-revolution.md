@@ -1,5 +1,5 @@
 ---
 title: "Hair Revolution"
 url: /takaka/hair-revolution/
-shop: Friseur
+shop: hairdresser
 ---

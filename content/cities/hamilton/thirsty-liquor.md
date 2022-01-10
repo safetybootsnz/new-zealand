@@ -1,5 +1,5 @@
 ---
 title: "Thirsty Liquor"
 url: /hamilton/thirsty-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

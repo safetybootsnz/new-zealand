@@ -1,5 +1,5 @@
 ---
 title: "Victoria Street Dairy"
 url: /hamilton/victoria-street-dairy/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Acquire"
 url: /auckland/acquire/
-shop: Computer
+shop: computer
 ---

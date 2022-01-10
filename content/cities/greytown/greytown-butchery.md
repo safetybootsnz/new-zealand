@@ -1,5 +1,5 @@
 ---
 title: "Greytown Butchery"
 url: /greytown/greytown-butchery/
-shop: Metzgerei
+shop: butcher
 ---

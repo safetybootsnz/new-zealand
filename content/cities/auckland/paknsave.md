@@ -1,5 +1,5 @@
 ---
 title: "Pak'nSave"
 url: /auckland/paknsave/
-shop: Supermarkt
+shop: supermarket
 ---

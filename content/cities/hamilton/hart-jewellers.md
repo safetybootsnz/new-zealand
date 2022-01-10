@@ -1,5 +1,5 @@
 ---
 title: "Hart Jewellers"
 url: /hamilton/hart-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

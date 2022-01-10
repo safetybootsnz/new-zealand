@@ -1,5 +1,5 @@
 ---
 title: "Absolute Beauty"
 url: /hamilton/absolute-beauty/
-shop: Kosmetik
+shop: beauty
 ---

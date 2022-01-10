@@ -1,5 +1,5 @@
 ---
 title: "Whitcoulls Dunedin"
 url: /dunedin/whitcoulls-dunedin/
-shop: Schreibwaren
+shop: office supplies
 ---

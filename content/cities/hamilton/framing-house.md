@@ -1,5 +1,5 @@
 ---
 title: "Framing House"
 url: /hamilton/framing-house/
-shop: Rahmen
+shop: frame
 ---

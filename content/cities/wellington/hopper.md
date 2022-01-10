@@ -1,5 +1,5 @@
 ---
 title: "Hopper"
 url: /wellington/hopper/
-shop: Lebensmittel
+shop: convenience
 ---

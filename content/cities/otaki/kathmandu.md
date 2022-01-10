@@ -1,5 +1,5 @@
 ---
 title: "Kathmandu"
 url: /otaki/kathmandu/
-shop: Outdoor
+shop: outdoor
 ---

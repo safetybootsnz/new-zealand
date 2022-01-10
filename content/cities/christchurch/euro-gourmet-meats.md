@@ -1,5 +1,5 @@
 ---
 title: "Euro Gourmet Meats"
 url: /christchurch/euro-gourmet-meats/
-shop: Metzgerei
+shop: butcher
 ---

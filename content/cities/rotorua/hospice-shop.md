@@ -1,5 +1,5 @@
 ---
 title: "Hospice Shop"
 url: /rotorua/hospice-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

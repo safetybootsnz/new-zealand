@@ -1,5 +1,5 @@
 ---
 title: "Bottings Butchery Rosebank"
 url: /balclutha/bottings-butchery-rosebank/
-shop: Metzgerei
+shop: butcher
 ---

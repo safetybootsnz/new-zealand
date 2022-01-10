@@ -1,5 +1,5 @@
 ---
 title: "Waters Funerals"
 url: /papatoetoe/waters-funerals/
-shop: Bestattungen
+shop: funeral directors
 ---

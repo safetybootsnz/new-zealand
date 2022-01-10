@@ -1,5 +1,5 @@
 ---
 title: "New World"
 url: /greymouth/new-world/
-shop: Supermarkt
+shop: supermarket
 ---

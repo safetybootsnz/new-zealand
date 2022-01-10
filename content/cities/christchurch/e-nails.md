@@ -1,5 +1,5 @@
 ---
 title: "e-nails"
 url: /christchurch/e-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waikato Bedding"
 url: /hamilton/waikato-bedding/
-shop: Betten
+shop: bed
 ---

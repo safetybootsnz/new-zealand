@@ -1,5 +1,5 @@
 ---
 title: "City Focus Suprette"
 url: /rotorua/city-focus-suprette/
-shop: Lebensmittel
+shop: convenience
 ---

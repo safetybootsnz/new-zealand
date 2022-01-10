@@ -1,5 +1,5 @@
 ---
 title: "Uni Convenience"
 url: /auckland/uni-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

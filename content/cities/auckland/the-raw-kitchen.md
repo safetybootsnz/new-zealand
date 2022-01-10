@@ -1,5 +1,5 @@
 ---
 title: "The Raw Kitchen"
 url: /auckland/the-raw-kitchen/
-shop: Konditorei
+shop: pastry
 ---

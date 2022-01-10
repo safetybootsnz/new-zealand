@@ -1,5 +1,5 @@
 ---
 title: "Paekakariki Auto Services"
 url: /paekakariki/paekakariki-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

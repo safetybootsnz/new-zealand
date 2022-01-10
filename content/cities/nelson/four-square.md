@@ -1,5 +1,5 @@
 ---
 title: "Four Square"
 url: /nelson/four-square/
-shop: Lebensmittel
+shop: convenience
 ---

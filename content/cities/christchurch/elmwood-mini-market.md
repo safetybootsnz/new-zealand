@@ -1,5 +1,5 @@
 ---
 title: "Elmwood Mini Market"
 url: /christchurch/elmwood-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---
