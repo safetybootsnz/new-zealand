@@ -1,5 +1,5 @@
 ---
 title: "Bunnings Warehouse"
-url: /wellington/bunnings-warehouse/
+url: /te-aro-wellington/bunnings-warehouse/
 shop: doityourself
 ---
