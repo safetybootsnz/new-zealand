@@ -1,5 +1,5 @@
 ---
 title: "Mainland Uniforms"
-url: /christchurch-central/mainland-uniforms/
+url: /christchurch/mainland-uniforms/
 shop: clothes
 ---

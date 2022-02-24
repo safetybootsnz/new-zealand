@@ -1,5 +1,5 @@
 ---
 title: "Knit World"
-url: /christchurch-central/knit-world/
+url: /christchurch/knit-world/
 shop: shop
 ---

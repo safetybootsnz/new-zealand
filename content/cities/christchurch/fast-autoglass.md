@@ -1,5 +1,5 @@
 ---
 title: "Fast Autoglass"
-url: /chistchurch/fast-autoglass/
+url: /christchurch/fast-autoglass/
 shop: car repair
 ---
