@@ -1,5 +1,5 @@
 ---
 title: "Mitre 10 MEGA"
-url: /blenheim/mitre-10-mega/
+url: /wanaka/mitre-10-mega-2/
 shop: doityourself
 ---
