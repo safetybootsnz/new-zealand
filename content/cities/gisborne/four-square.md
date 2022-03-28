@@ -1,5 +1,5 @@
 ---
 title: "Four Square"
-url: /hamilton/four-square/
+url: /gisborne/four-square/
 shop: supermarket
 ---
