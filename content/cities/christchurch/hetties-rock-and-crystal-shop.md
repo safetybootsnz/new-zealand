@@ -1,5 +1,5 @@
 ---
 title: "Hettie’s Rock & Crystal Shop"
 url: /christchurch/hetties-rock-and-crystal-shop/
-shop: shop
+shop: esoteric
 ---
