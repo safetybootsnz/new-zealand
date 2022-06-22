@@ -1,4 +1,4 @@
-baseURL = "https://nz.shoogle.net/new-zealand"
+baseURL = "https://nz.shoogle.net/new-zealand/"
 languageCode = "en-US"
 title = "New Zealand"
 theme = "ln-base"
