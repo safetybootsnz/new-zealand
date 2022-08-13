@@ -1,6 +1,6 @@
 ---
 title: Tauranga
 url: /tauranga/
-latitude: -37.728
-longitude: 176.131
+latitude: -37.688
+longitude: 176.166
 ---
