@@ -1,5 +1,5 @@
 ---
 title: "Eyecatcher Shoes"
-url: /hamilton/eyecatcher-shoes/
+url: /thames/eyecatcher-shoes/
 shop: shoes
 ---
