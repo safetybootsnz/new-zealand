@@ -1,5 +1,5 @@
 ---
 title: "Warehouse Stationery"
-url: /auckland/warehouse-stationery/
+url: /christchurch/warehouse-stationery-2/
 shop: office supplies
 ---

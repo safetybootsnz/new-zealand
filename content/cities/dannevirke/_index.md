@@ -1,6 +1,6 @@
 ---
 title: Dannevirke
 url: /dannevirke/
-latitude: -40.209
-longitude: 176.097
+latitude: -40.208
+longitude: 176.102
 ---
