@@ -1,11 +1,11 @@
-id: 5253323691
-type: node
-latitude: -43.51974
-longitude: 172.55134
+id: 903223226
+type: way
+latitude: -43.51975
+longitude: 172.55145
 postcode: "8042"
 city: Christchurch
 street: "Withells Road"
 housenumber: 76
 phone: "+64 3 342 5682"
-opening_hours: "Tu,Fr 09:00-18:00; We,Th 09:00-21:00; Sa 09:00-16:00"
+opening_hours: "Tu,Fr 09:00-18:00; We 09:00-20:00; Th 11:00-20:00; Sa 09:00-16:00"
 website: "https://hushhair.co.nz/"
