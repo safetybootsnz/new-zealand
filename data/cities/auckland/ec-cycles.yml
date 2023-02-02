@@ -7,5 +7,5 @@ city: Auckland
 street: "Pearn Place"
 housenumber: 32
 phone: "+64 9 948 5755"
-opening_hours: "Mo-Wed 09:00-17:00 Th 09:00-16:00 Fr-Sa 10:00-14:00"
+opening_hours: "Mo-We 09:00-17:00; Th 09:00-16:00; Fr,Sa 10:00-14:00"
 website: "https://eccycles.co.nz/"
