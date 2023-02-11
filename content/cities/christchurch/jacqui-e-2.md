@@ -1,5 +1,5 @@
 ---
 title: "Jacqui E"
-url: /christchurch/jacqui-e-2/
+url: /christchurch/jacqui-e/
 shop: clothes
 ---

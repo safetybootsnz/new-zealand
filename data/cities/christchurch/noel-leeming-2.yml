@@ -1,11 +1,11 @@
-id: 5367676032
-type: node
-latitude: -43.4594
-longitude: 172.62547
-postcode: "8051"
+id: 1078378549
+type: way
+latitude: -43.53106
+longitude: 172.59707
+postcode: "8041"
 city: Christchurch
-street: "Main North Road"
+street: ""
 housenumber: 
-phone: "+64 0800 44 44 88"
-opening_hours: "Mo-We 09:00-17:30; Th 09:00-20:00; Fr,Sa 09:00-17:30; Su 10:00-17:30"
+phone: ""
+opening_hours: "Mo-Sa 09:00-18:00; Th,Fr 09:00-21:00; Su 10:00-18:00"
 website: ""

@@ -1,5 +1,5 @@
 ---
 title: "Noel Leeming"
-url: /christchurch/noel-leeming-3/
+url: /christchurch/noel-leeming/
 shop: electronics
 ---

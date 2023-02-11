@@ -1,5 +1,5 @@
 ---
 title: "Enjoy"
-url: /christchurch/enjoy-2/
+url: /christchurch/enjoy/
 shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stirling Sports"
-url: /christchurch/stirling-sports-2/
+url: /christchurch/stirling-sports/
 shop: sports
 ---

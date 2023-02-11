@@ -1,5 +1,5 @@
 ---
-title: "Pak'nSave Wairau Road"
-url: /auckland/paknsave-wairau-road/
+title: "PAK'nSAVE"
+url: /auckland/paknsave/
 shop: supermarket
 ---
