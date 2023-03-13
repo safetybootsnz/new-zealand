@@ -1,5 +1,5 @@
 ---
 title: "Scooterazzi"
-url: /wellington/scooterazzi/
+url: /te-aro-wellington/scooterazzi/
 shop: motorcycle
 ---
