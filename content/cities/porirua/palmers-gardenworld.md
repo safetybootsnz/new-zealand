@@ -1,5 +1,5 @@
 ---
 title: "Palmer's Gardenworld"
-url: /plimmerton-porirua/palmers-gardenworld/
+url: /porirua/palmers-gardenworld/
 shop: garden centre
 ---
