@@ -1,6 +1,6 @@
 ---
 title: Waikanae
 url: /waikanae/
-latitude: -40.878
-longitude: 175.065
+latitude: -40.875
+longitude: 175.067
 ---

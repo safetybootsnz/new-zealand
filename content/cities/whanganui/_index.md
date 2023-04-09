@@ -1,6 +1,6 @@
 ---
 title: Whanganui
 url: /whanganui/
-latitude: -39.933
-longitude: 175.052
+latitude: -39.935
+longitude: 175.053
 ---
