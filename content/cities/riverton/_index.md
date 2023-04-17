@@ -1,6 +1,6 @@
 ---
 title: Riverton
 url: /riverton/
-latitude: -46.367
-longitude: 168.02
+latitude: -46.344
+longitude: 168.026
 ---
