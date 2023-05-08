@@ -1,6 +1,6 @@
 ---
 title: Kaikoura
 url: /kaikoura/
-latitude: -42.395
-longitude: 173.679
+latitude: -42.387
+longitude: 173.68
 ---
