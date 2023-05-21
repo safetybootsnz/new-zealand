@@ -1,6 +1,6 @@
 ---
 title: Papatoetoe
 url: /papatoetoe/
-latitude: -36.958
-longitude: 174.852
+latitude: -36.975
+longitude: 174.866
 ---

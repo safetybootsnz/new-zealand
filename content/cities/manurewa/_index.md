@@ -1,6 +1,6 @@
 ---
 title: Manurewa
 url: /manurewa/
-latitude: -37.034
-longitude: 174.906
+latitude: -37.009
+longitude: 174.891
 ---
