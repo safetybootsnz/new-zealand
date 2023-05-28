@@ -1,5 +1,5 @@
 ---
 title: "Four Square"
-url: /arowtown/four-square/
+url: /arrowtown/four-square/
 shop: supermarket
 ---

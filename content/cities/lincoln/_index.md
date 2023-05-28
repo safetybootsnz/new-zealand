@@ -1,6 +1,6 @@
 ---
-title: Lincoln
+title: lincoln
 url: /lincoln/
-latitude: -43.642
-longitude: 172.474
+latitude: -43.648
+longitude: 172.487
 ---
