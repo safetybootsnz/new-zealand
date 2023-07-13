@@ -1,6 +1,6 @@
 ---
 title: Waimate
 url: /waimate/
-latitude: -44.732
-longitude: 171.049
+latitude: -44.723
+longitude: 171.048
 ---

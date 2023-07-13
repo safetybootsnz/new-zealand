@@ -1,5 +1,5 @@
 ---
 title: "Vikki's Flower Shop"
-url: /wellington/vikkis-flower-shop/
+url: /porirua/vikkis-flower-shop/
 shop: florist
 ---
